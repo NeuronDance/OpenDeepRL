@@ -10,9 +10,7 @@
    :maxdepth: 2
    :caption: Contents:
 
-   基础篇/index
-   进阶篇/index
-   高级篇/index
+   basic/index
    about
 
 

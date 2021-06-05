@@ -22,7 +22,7 @@ copyright = 'Belongs to all contributors, explained by the Deep Reinforcement Le
 author = '深度强化学习实验室(www.neurondance.com)'
 
 # The full version, including alpha/beta/rc tags
-release = '0.1'
+release = 'V0.1'
 
 
 # -- General configuration ---------------------------------------------------
