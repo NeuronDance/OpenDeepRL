@@ -4,5 +4,6 @@
 .. toctree::
     :maxdepth: 2
 
-    Introduction/contents
-    Environment/contents
+    Introduction/ReinforcementLearning
+    Introduction/OptimizeControl
+    Environment/Gym
