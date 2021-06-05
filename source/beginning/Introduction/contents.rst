@@ -1,8 +1,9 @@
-入门篇
+基本简介
 ==========
 
 .. toctree::
     :maxdepth: 2
     :numbered: 2
 
-    Introduction/contents
+    ReinforcementLearning
+    OptimizeControl
