@@ -3,14 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-我的日记
+欢迎访问、贡献“OpenDeepRL”项目
 =================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   2020/index
+   基础篇/index
+   进阶篇/index
+   高级篇/index
    about
 
 
