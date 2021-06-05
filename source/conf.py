@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'OpenDeepRL'
-copyright = '本项目由"深度强化学习实验室"联合**、**共同发起，项目开源开放，共享共用，由所有RLer共同贡献，版权由深度强化学习实验室解释。'
+copyright = ': 本项目由"深度强化学习实验室"联合华为MindSpore、南栖仙策共同发起，项目开源开放，由所有RLer研究者共同贡献，版权由深度强化学习实验室(www.neurondance.com)解释。'
 author = '深度强化学习实验室(www.neurondance.com)'
 
 # The full version, including alpha/beta/rc tags

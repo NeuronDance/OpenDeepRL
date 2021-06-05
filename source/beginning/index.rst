@@ -12,5 +12,3 @@
     01_linux
     02_ipython
     03_numpy
-    04_matplotlib
-    05_seaborn

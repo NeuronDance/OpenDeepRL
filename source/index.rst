@@ -3,20 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Read and Contribute to OpenDeepRL Project!
+欢迎阅读、贡献 "OpenDeepRL"项目!
 ======================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
    :glob:
 
     beginning/index
-    base/index
-    tool/index
 
-
-Indices and tables
+目录
 ==================
 
 * :ref:`genindex`
