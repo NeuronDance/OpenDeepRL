@@ -1,8 +1,8 @@
-入门篇
+基础知识简介
 ==========
 
 .. toctree::
     :maxdepth: 2
     :numbered: 2
 
-    01_linux
+    Gym
