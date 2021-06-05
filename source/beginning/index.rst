@@ -3,7 +3,7 @@
 
 .. toctree::
     :maxdepth: 2
- 
+
     Introduction/content
     Introduction/ReinforcementLearning
     Introduction/OptimizeControl

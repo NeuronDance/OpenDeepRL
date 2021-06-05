@@ -4,6 +4,8 @@
    contain the root `toctree` directive.
 
 欢迎阅读、贡献"OpenDeepRL"开源项目
+
+目录
 =================================
 
 .. toctree::
@@ -12,6 +14,3 @@
 
    beginning/index
    about
-
-目录
-=================================
