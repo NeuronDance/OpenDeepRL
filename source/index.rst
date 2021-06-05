@@ -12,5 +12,6 @@
    :maxdepth: 3
    :caption: Contents:
 
-   beginning/index
+   01-basic/index
+   01-algorithms/index
    about
